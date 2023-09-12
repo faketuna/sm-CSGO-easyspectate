@@ -1,0 +1,18 @@
+"Phrases"
+{
+    "spec menu CT"
+    {
+        "en"        "CT: "
+        "jp"        "CT: "
+    }
+    "spec menu T"
+    {
+        "en"        "T: "
+        "jp"        "T: "
+    }
+    "spec player pick menu title"
+    {
+        "en"        "Player spectate menu"
+        "jp"        "プレイヤー観戦メニュー"
+    }
+}
